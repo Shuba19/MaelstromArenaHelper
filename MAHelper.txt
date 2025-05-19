@@ -22,4 +22,3 @@ Stages/S6.lua
 Stages/S7.lua
 Stages/S8.lua
 Stages/S9.lua
-Stages/S10.lua
